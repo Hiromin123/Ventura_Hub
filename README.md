@@ -1,3 +1,3 @@
-# flutter_application_2
+# flutter_application
 
-A new Flutter project.
+Разработанное приложение для организации взаимодействия стартаперов и инвесторов
